@@ -1,4 +1,4 @@
-### Cześć, mam na imię Dawid 👋
+### Hello, my name is David 👋
 
 I am a young Junior Frontend Developer
 I know HTML, CSS and JavaScript well. I know the basics of Vue.js, Angular and Python
